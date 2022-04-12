@@ -1,0 +1,405 @@
+#EXTM3U
+
+#EXTINF:-1 ,tvg-id="animal_rus" group-title="Undefined",Animal Planet
+
+http://new-pro.tv:8080/Fernando/123321/72522?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="America2.ar" group-title="Undefined",America HD
+
+http://new-pro.tv:8080/Fernando/123321/127972?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ATV.am" group-title="Undefined",ATV  HD
+
+http://new-pro.tv:8080/Fernando/123321/98118?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Antares Televisión (720p) [Not 24/7]
+
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ATV+ HD
+
+http://new-pro.tv:8080/Fernando/123321/285676?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="BHTV1.rs" group-title="Undefined",BHtv
+
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Amazonas) (720p) [Not 24/7]
+
+https://tvdatta.com:3517/live/kachorrotvlive.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Andes Televisión (Sicusani) (720p) [Not 24/7]
+
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Antares TV HD
+
+http://new-pro.tv:8080/Fernando/123321/285662?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="BHTV1.rs" group-title="Undefined",BHtv
+
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="BHTV1.rs" group-title="Undefined",BHtv
+
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="BHTV1.rs" group-title="Undefined",BHtv
+
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="BHTV1.rs" group-title="Undefined",BHtv
+
+http://new-pro.tv:8080/Fernando/123321/98124?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Bella Abanquina TV (Apurimac) (720p) [Not 24/7]
+
+https://v4.tustreaming.cl/bellatv/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Best Cable Music HD
+
+http://new-pro.tv:8080/Fernando/123321/285663?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Best Cable Más Cumbia (720p) [Not 24/7]
+
+https://ca.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Best Cable Perú (720p) [Not 24/7]
+
+https://ca.inka.net.pe/bestcable/bestcable/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Bethel TV (720p) [Not 24/7]
+
+https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="CanalN.pe" group-title="Undefined",CANAL N
+
+http://new-pro.tv:8080/Fernando/123321/98120?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="CapitalTV.uk" group-title="Undefined",CAPITAL TV
+
+http://new-pro.tv:8080/Fernando/123321/127982?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",CNC (Cajamarca) (720p)
+
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",CR Television (Moyobamba) (720p) [Not 24/7]
+
+https://live.obslivestream.com/crtvmux/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="sts" group-title="Undefined",CTC (720p)
+
+http://190.108.83.142:8000/play/a007/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",CULTURA 24
+
+http://new-pro.tv:8080/Fernando/123321/127973?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Cajamarca TV (480p) [Not 24/7]
+
+https://ca.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Canal E (Evelyn) (Altomayo) (720p) [Not 24/7]
+
+https://srv1.mediastreamperu.com:8081/8006/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",CharapaTV (Pucallpa) [Not 24/7]
+
+https://cloudvideo.servers10.com:8081/8168/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ClipsTV (Ica) (360p) [Not 24/7]
+
+https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Contacto Deportivo (720p) [Not 24/7]
+
+https://live.obslivestream.com/cdeportivomux/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Controversia TV (Moyobamba) (720p) [Not 24/7]
+
+https://live.obslivestream.com/controversiamux/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",CreoTV (Cajamarca) (720p) [Not 24/7]
+
+https://srv1.mediastreamperu.com:8081/creotv/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Cultura 24 TV
+
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",DMJ (Cuzco) (720p) [Not 24/7]
+
+https://v4.tustreaming.cl/s1tv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Exitosa HD
+
+http://new-pro.tv:8080/Fernando/123321/98121?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Frecuencia Latina HD
+
+http://new-pro.tv:8080/Fernando/123321/285666?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",GOL PERU HD
+
+http://new-pro.tv:8080/Fernando/123321/98127?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Galáctica TV (Peru) (1080p) [Not 24/7]
+
+https://pacific.direcnode.com:3715/hybrid/play.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Genios TV (Moyobamba) (720p) [Not 24/7]
+
+https://live.obslivestream.com/geniostvmux/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Hatun TV (720p) [Not 24/7]
+
+https://ca.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Hatun TV HD
+
+http://new-pro.tv:8080/Fernando/123321/285667?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Hoynet (540p) [Not 24/7]
+
+https://tv.portalexpress.es:3641/hybrid/play.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Huacho Perú TV (720p) [Not 24/7]
+
+https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Huanta TV (288p) [Not 24/7]
+
+https://inliveserver.com:1936/19002/19002/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",IPE
+
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Innova FM (Bagua Grande) (480p) [Not 24/7]
+
+https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",JN19 (720p) [Not 24/7]
+
+https://servilive.com:3149/live/jn19tvlive.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",KBO Quillabamba (1080p) [Not 24/7]
+
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",La Abeja (720p) [Not 24/7]
+
+http://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="iTele.fr" group-title="Undefined",La Tele
+
+http://new-pro.tv:8080/Fernando/123321/285668?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="Latina.pe" group-title="Undefined",Latina
+
+http://new-pro.tv:8080/Fernando/123321/98122?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="Latina.pe" group-title="Undefined",Latina Opc. 2
+
+http://new-pro.tv:8080/Fernando/123321/127975?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Master TV (Tarapoto) (480p) [Not 24/7]
+
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="mega" group-title="Undefined",Mega TV
+
+http://new-pro.tv:8080/Fernando/123321/285669?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Mega TV (Jaen) (720p) [Not 24/7]
+
+https://tv.portalexpress.es:3399/hybrid/play.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Movistar Plus
+
+http://new-pro.tv:8080/Fernando/123321/127978?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Nuestra TV (Lima) (720p) [Not 24/7]
+
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",OK TeVe (Yurimaguas) (720p) [Not 24/7]
+
+https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Oasis RTV (Trujillo) (720p) [Not 24/7]
+
+https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Oriental TV 21 (Pucallpa) (480p) [Not 24/7]
+
+https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="avi" group-title="Undefined",PBO Digital (720p) [Not 24/7]
+
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ/live&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="PanamericanaTV.pe" group-title="Undefined",Panamericana .
+
+http://new-pro.tv:8080/Fernando/123321/98123?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Peru Magico HD
+
+http://new-pro.tv:8080/Fernando/123321/285670?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PiuraTV (720p) [Not 24/7]
+
+http://190.108.83.142:8000/play/a00d/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Planeta TV Bagua (720p) [Not 24/7]
+
+https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Planeta TV Moyobamba (720p) [Not 24/7]
+
+https://live.obslivestream.com/planetatvmux/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Primavera 15 Radiotelevisión (Moquegua) (720p) [Not 24/7]
+
+https://tv.portalexpress.es:3270/hybrid/play.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Proyecta Televisión (Huacho) (720p) [Not 24/7]
+
+https://servilive.com:3194/live/proyectatvlive.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",QT Televisión (Cuzco) (720p) [Not 24/7]
+
+https://servilive.com:3753/live/qosqotimeslive.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Quillavision (Cuzco) (720p) [Not 24/7]
+
+http://v4.tustreaming.cl/quillavision/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",RPP HD
+
+http://new-pro.tv:8080/Fernando/123321/98125?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Radio Chalaca (720p) [Not 24/7]
+
+https://megastreamm.com:3611/stream/play.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Radio Pachatusan (Cuzco) (720p) [Not 24/7]
+
+https://tvdatta.com:3413/live/pachatusanlive.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Radio TV Juanjui (480p) [Not 24/7]
+
+https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",RadioInka (Abancay) (1080p) [Not 24/7]
+
+https://tv.portalexpress.es:3175/hybrid/play.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",RadioTV Oriente (Yurimaguas) (1080p) [Not 24/7]
+
+https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Red de Comunicación Regional (RCR) (720p) [Not 24/7]
+
+https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Región TV (Callao) (480p) [Not 24/7]
+
+https://servilive.com:3757/live/regiontvlive.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Sistema 1 (Huaraz) (720p) [Not 24/7]
+
+https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",TPTO TV (Tarapoto) (720p) [Not 24/7]
+
+https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",TV Cosmos (720p) [Not 24/7]
+
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",TV Huarmey (720p) [Not 24/7]
+
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvhuarmey&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",TV Noticias 7.3
+
+http://new-pro.tv:8080/Fernando/123321/127984?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",TV Palmeras (480p) [Not 24/7]
+
+https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Local",BeXtreme TV (Lima) (1080p) [Not 24/7]
+
+https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Local",Cajamarca TV
+
+https://live.siete.us/cajamarcatv/cajamarcatv/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Local",Central TV (Chosica)
+
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Music",Best Cable Music (720p) [Not 24/7]
+
+https://live.siete.us/bestcablemusic/bestcablemusic/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Music",Best Cable Music (720p) [Not 24/7]
+
+https://ca.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Music",Best Cable Más Cumbia (720p) [Not 24/7]
+
+https://live.siete.us/mascumbiatvonline/mascumbiatvonline/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Music",Hatun TV
+
+https://live.siete.us/bestcablehatuntv/bestcablehatuntv/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Music",Karibeña
+
+https://cu.onliv3.com/livevd/user1.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Music",Radio San Borja TV [Not 24/7]
+
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Music",Stereo TV (Peru) [Not 24/7]
+
+https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Music",TV Peruanísima
+
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="General",Best Cable Perú
+
+https://live.siete.us/bestcable/bestcable/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Sport",Best Cable Sports HD
+
+http://new-pro.tv:8080/Fernando/123321/285664?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Sport",ESPN
+
+http://new-pro.tv:8080/Fernando/123321/285675?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="Sport",Movistar Deportes
+
+http://new-pro.tv:8080/Fernando/123321/98128?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Culture",Cultura24.tv (360p)
+
+https://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="News",Exitosa TV
+
+https://cu.onliv3.com/livevd1/user2.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",Ovación TV (Lima) [Not 24/7]
+
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8?checkedby:iptvcat.com
